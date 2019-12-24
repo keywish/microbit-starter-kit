@@ -1,0 +1,1 @@
+When the microbit motherboard connects with the computer using USB data cable, open the serial port software, select the corresponding port number in the port Settings of the software, select 115200 baud rate, and click open the serial port. You can communicate
