@@ -1,0 +1,4 @@
+The 1602 liquid crystal SDA pin is connected with the Magicbit extension plate SDA pin
+The 1602 LCD SCL pin is connected to the Magicbit expansion plate SCL pin
+The 1602 LCD GND pin is connected to the Magicbit extension plate GND pin
+1602 LCD VCC pin is connected with Magicbit extension plate 5V or 3.3v pin (specific connection according to the actual situation)
